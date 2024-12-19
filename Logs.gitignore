@@ -1,0 +1,33 @@
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+
+# macOS system files
+.DS_Store
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Generated files
+/dist/
+/build/
+
+# Git-specific files
+*.lock
+
+# Temporary files
+*.tmp
+*.temp
+
+# GitHub Pages files
+/.publish
+
+# User-specific settings
+*.bak
+*.swp
